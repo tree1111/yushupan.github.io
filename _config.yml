@@ -23,11 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yushu Pan"
-  pronouns         : # example: "He/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "New York"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Columbia University"
   email            : "yp2602@columbia.edu" 
 
   # Academic websites
