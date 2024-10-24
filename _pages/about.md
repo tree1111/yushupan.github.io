@@ -11,7 +11,7 @@ I am a fourth-year PhD student advised by [Prof. Elias Bareinboim](https://causa
 
 Prior to my PhD, I completed my master's study at [Caltech](https://www.caltech.edu/) and I was fortunate enough to work with [Prof. Yisong Yue](http://www.yisongyue.com/) about data-driven optimization. In my undergrad, I worked with [Prof. Yuantao Gu](https://scholar.google.com/citations?user=FL61g6wAAAAJ&hl=en) about compressive sensing and hyperspectral image clustering at Tsinghua University.
 
-<In my undergrad, I studied Electrical Engineering at [Beijing Institute of Technology](https://english.bit.edu.cn/), double-majoring in Economics at [Peking University](https://english.pku.edu.cn/).>
+<!--In my undergrad, I studied Electrical Engineering at [Beijing Institute of Technology](https://english.bit.edu.cn/), double-majoring in Economics at [Peking University](https://english.pku.edu.cn/).-->
 
 
 
