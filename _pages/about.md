@@ -22,5 +22,5 @@ Publication
 ======
 
 \[[Paper](https://causalai.net/r110.pdf)\] Disentangled Representation Learning in Non-Markovian Causal Systems <br>
-Adam Li <sup>\*</sup>, Yushu Pan <sup>\*</sup>, Elias Bareinboim <br>
-In 38th Conference on Neural Information Processing Systems (NeurIPS), 2024
+Adam Li <sup>\*</sup>, **Yushu Pan <sup>\*</sup>**, Elias Bareinboim <br>
+In 38th Conference on Neural Information Processing Systems (**NeurIPS**), 2024
