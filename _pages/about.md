@@ -17,7 +17,7 @@ You can find my CV here: [Yushu Pan's Curriculum Vitae](files/YushuPan_CV.pdf).
 
 
 
-
+======
 Publication
 ======
 
@@ -40,7 +40,7 @@ In Proceedings of the 11th International Conference on Learning Representations 
 In IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2019
 
 
-
+======
 Teaching
 ======
 ### Teaching assistant at Columbia:
