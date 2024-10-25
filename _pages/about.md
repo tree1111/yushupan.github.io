@@ -21,8 +21,6 @@ You can find my CV here: [Yushu Pan's Curriculum Vitae](files/YushuPan_CV.pdf).
 Publication
 ======
 
-\[[Paper](https://causalai.net/r110.pdf)\] Disentangled Representation Learning in Non-Markovian Causal Systems
-
-Adam Li <sup>\*</sup>, Yushu Pan <sup>\*</sup>, Elias Bareinboim
-
+\[[Paper](https://causalai.net/r110.pdf)\] Disentangled Representation Learning in Non-Markovian Causal Systems <br>
+Adam Li <sup>\*</sup>, Yushu Pan <sup>\*</sup>, Elias Bareinboim <br>
 In 38th Conference on Neural Information Processing Systems (NeurIPS), 2024
