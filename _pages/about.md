@@ -22,4 +22,5 @@ Publication
 ======
 
 \[Paper/Code\] Disentangled Representation Learning in Non-Markovian Causal Systems
+
 Adam Li,
