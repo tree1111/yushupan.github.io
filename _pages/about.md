@@ -43,3 +43,12 @@ In IEEE International Conference on Acoustics, Speech and Signal Processing (**I
 
 Teaching
 ======
+Teaching assistant at Columbia:
+
+COMS 4775: Causal Inference I (Fall 2024)<br>
+COMS 4775: Causal Inference I (Fall 2023, Head TA)<br>
+COMS 4995: Causal Inference II (Spring 2023, Head TA)<br>
+
+Teaching assistant at Caltech:
+
+ACM/EE/IDS 116: Introduction to Probability Models (Fall 2020)
