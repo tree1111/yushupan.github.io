@@ -27,7 +27,7 @@ In 38th Conference on Neural Information Processing Systems (**NeurIPS**), 2024
 
 *<sup>\*</sup> Indicates equal contribution.*
 
-#### \[[Paper](https://causalai.net/r103.pdf)\]Counterfactual Image Editing <br>
+#### \[[Paper](https://causalai.net/r103.pdf)\] Counterfactual Image Editing <br>
 **Yushu Pan**, Elias Bareinboim <br>
 In Proceedings of the 41st International Conference on Machine Learning (**ICML**), 2024
 
