@@ -18,13 +18,6 @@ You can find my CV here: [Yushu Pan's Curriculum Vitae](files/YushuPan_CV.pdf).
 
 
 
----
-permalink: /
-title: "Publication"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+Publication
 ======
 
