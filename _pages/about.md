@@ -23,4 +23,4 @@ Publication
 
 \[Paper/Code\] Disentangled Representation Learning in Non-Markovian Causal Systems
 
-Adam Li <sup>\*</sup>, Yushu Pan <sup>\*</sup>
+Adam Li <sup>\*</sup>, Yushu Pan <sup>\*</sup>, Elias Bareinboim
