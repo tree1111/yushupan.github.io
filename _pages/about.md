@@ -21,7 +21,7 @@ You can find my CV here: [Yushu Pan's Curriculum Vitae](files/YushuPan_CV.pdf).
 Publication
 ======
 
-\[[Paper](https://causalai.net/r110.pdf)\] Disentangled Representation Learning in Non-Markovian Causal Systems <br>
+### \[[Paper](https://causalai.net/r110.pdf)\] Disentangled Representation Learning in Non-Markovian Causal Systems <br>
 Adam Li <sup>\*</sup>, **Yushu Pan <sup>\*</sup>**, Elias Bareinboim <br>
 In 38th Conference on Neural Information Processing Systems (**NeurIPS**), 2024
 
@@ -32,6 +32,8 @@ In Proceedings of the 41st International Conference on Machine Learning (**ICML*
 \[[Paper](https://causalai.net/r87.pdf), [Code](https://github.com/CausalAILab/NCMCounterfactuals)\] Neural Causal Models for Counterfactual Identification and Estimation <br>
 Kevin Xia, **Yushu Pan**, Elias Bareinboim <br>
 In Proceedings of the 11th International Conference on Learning Representations (**ICLR**), 2023
+
+<sup>\*</sup> Indicates equal contribution.
 
 \[[Paper](https://ieeexplore.ieee.org/abstract/document/8683309), [Code](https://github.com/tree1111/SPAHSIC_ICASSP2019)\] An efficient algorithm for hyperspectral image clustering <br>
 **Yushu Pan <sup>\*</sup>**, Yuchen Jiao, Tiejian Li, Yuantao Gu <br>
