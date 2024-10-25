@@ -33,6 +33,6 @@ In Proceedings of the 41st International Conference on Machine Learning (**ICML*
 Kevin Xia, **Yushu Pan**, Elias Bareinboim <br>
 In Proceedings of the 11th International Conference on Learning Representations (**ICLR**), 2023
 
-\[[Paper](https://ieeexplore.ieee.org/abstract/document/8683309)\] An efficient algorithm for hyperspectral image clustering <br>
+\[[Paper](https://ieeexplore.ieee.org/abstract/document/8683309), [Code](https://github.com/tree1111/SPAHSIC_ICASSP2019)\] An efficient algorithm for hyperspectral image clustering <br>
 **Yushu Pan <sup>\*</sup>**, Yuchen Jiao, Tiejian Li, Yuantao Gu <br>
 In IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2019
