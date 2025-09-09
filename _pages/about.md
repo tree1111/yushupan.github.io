@@ -25,7 +25,7 @@ Publication
  **Yushu Pan**, Elias Bareinboim <br>
 Under Review, 2025
 
-### \[[Paper](https://causalai.net/r110.pdf)\] From Black-box to Causal-box: Towards Building More Interpretable Models <br>
+### \[[Paper](https://causalai.net/r127.pdf)\] From Black-box to Causal-box: Towards Building More Interpretable Models <br>
 Inwoo Hwang, **Yushu Pan**, Elias Bareinboim <br>
 Under Review, 2025
 
