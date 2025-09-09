@@ -21,8 +21,7 @@ You can find my CV here: [Yushu Pan's Curriculum Vitae](files/YushuPan_CV.pdf).
   
 Publication
 ======
-### \[[Paper](https://causalai.net/r137.pdf)\] Counterfactual Image Editing
-with Disentangled Causal Latent Space <br>
+### \[[Paper](https://causalai.net/r137.pdf)\] Counterfactual Image Editing with Disentangled Causal Latent Space <br>
  **Yushu Pan**, Elias Bareinboim <br>
 Under Review, 2025
 
