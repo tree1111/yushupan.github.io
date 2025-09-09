@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br>
-I am a fourth-year PhD student advised by [Prof. Elias Bareinboim](https://causalai.net/) in the [Computer Science department at Columbia University](https://www.cs.columbia.edu/). My research interests are casual inference and machine learning. Recently, I have been working on causal generative models and causal representation learning. My personal goal is to make ML algorithms trustworthy and reliable with causality.
+I am a fourth-year PhD student advised by [Prof. Elias Bareinboim](https://causalai.net/) in the [Computer Science department at Columbia University](https://www.cs.columbia.edu/). My research interests are causal inference and machine learning. Recently, I have been working on causal generative models and causal representation learning. My personal goal is to make ML algorithms trustworthy and reliable with causality.
 
 Prior to my PhD, I completed my master's study at Caltech and I was fortunate enough to work with [Prof. Yisong Yue](http://www.yisongyue.com/) on data-driven optimization. In my undergrad, I worked with [Prof. Yuantao Gu](https://scholar.google.com/citations?user=FL61g6wAAAAJ&hl=en) on compressive sensing and hyperspectral image clustering at Tsinghua University.
 
@@ -21,8 +21,17 @@ You can find my CV here: [Yushu Pan's Curriculum Vitae](files/YushuPan_CV.pdf).
   
 Publication
 ======
+### \[[Paper](https://causalai.net/r137.pdf)\] Counterfactual Image Editing
+with Disentangled Causal Latent Space <br>
+ **Yushu Pan**, Elias Bareinboim <br>
+Under Review, 2025
+
+### \[[Paper](https://causalai.net/r110.pdf)\] From Black-box to Causal-box: Towards Building More Interpretable Models <br>
+Inwoo Hwang, **Yushu Pan**, Elias Bareinboim <br>
+Under Review, 2025
+
 ### \[[Paper](https://causalai.net/r110.pdf)\] Disentangled Representation Learning in Non-Markovian Causal Systems <br>
-Adam Li <sup>\*</sup>, **Yushu Pan <sup>\*</sup>**, Elias Bareinboim <br>
+**Yushu Pan <sup>\*</sup>**, Adam Li <sup>\*</sup>, Elias Bareinboim <br>
 In 38th Conference on Neural Information Processing Systems (**NeurIPS**), 2024
 
 *<sup>\*</sup> Indicates equal contribution.*
