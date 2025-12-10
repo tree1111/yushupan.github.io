@@ -23,11 +23,11 @@ Publication
 ======
 ### \[[Paper](https://causalai.net/r137.pdf)\] Counterfactual Image Editing with Disentangled Causal Latent Space <br>
  **Yushu Pan**, Elias Bareinboim <br>
-Accepted in 39th Conference on Neural Information Processing Systems (**NeurIPS**), 2025
+In 39th Conference on Neural Information Processing Systems (**NeurIPS**), 2025
 
 ### \[[Paper](https://causalai.net/r127.pdf)\] From Black-box to Causal-box: Towards Building More Interpretable Models <br>
 Inwoo Hwang, **Yushu Pan**, Elias Bareinboim <br>
-Accepted in 39th Conference on Neural Information Processing Systems (**NeurIPS**), 2025
+In 39th Conference on Neural Information Processing Systems (**NeurIPS**), 2025
 
 ### \[[Paper](https://causalai.net/r110.pdf)\] Disentangled Representation Learning in Non-Markovian Causal Systems <br>
 **Yushu Pan <sup>\*</sup>**, Adam Li <sup>\*</sup>, Elias Bareinboim <br>
